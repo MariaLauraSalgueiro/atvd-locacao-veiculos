@@ -88,7 +88,7 @@ public class Locacao
         Console.WriteLine($"Valor Bruto: R$ {CalcularValorBruto():F2}");
 
         Console.WriteLine($"Desconto Aplicado: R$ {CalcularDesconto():F2}");
-        
+
         Console.WriteLine($"Valor Final: R$ {CalcularValorFinal():F2}");
 
         Console.WriteLine("=============================\n");
