@@ -12,3 +12,4 @@ C:\Users\50363240802\Desktop\workspace\PBW\locacao-veiculos\obj\Debug\net9.0\ref
 C:\Users\50363240802\Desktop\workspace\PBW\locacao-veiculos\obj\Debug\net9.0\locacao-veiculos.pdb
 C:\Users\50363240802\Desktop\workspace\PBW\locacao-veiculos\obj\Debug\net9.0\locacao-veiculos.genruntimeconfig.cache
 C:\Users\50363240802\Desktop\workspace\PBW\locacao-veiculos\obj\Debug\net9.0\ref\locacao-veiculos.dll
+C:\Users\50363240802\Desktop\workspace\PBW\locacao-veiculos\obj\Debug\net9.0\locacao-veiculos.sourcelink.json
